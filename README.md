@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajal-1999-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="kajal-1999-cloud" /> </p>
 
-- 🔭 I’m currently working on [bus-booking Project ]()
+- 🔭 I’m currently working on [Finance Management Project ]()
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **NextJS**
 
-- 👯 I’m looking to collaborate on **MERN stack developer Role**
+- 👯 I’m looking to collaborate on **Fullstack developer Role**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://portfolio0-2.vercel.app/)
 
-- 💬 Ask me about **JavaScript, ReactJS, NodeJS, DBMS**
+- 💬 Ask me about **JavaScript, ReactJS, NodeJS, DBMS, NextJS, MySQL**
 
 - 📫 How to reach me **Kajalg1401@gmail.com**
 
