@@ -1,3 +1,4 @@
+<img width="1400" height="350" alt="1722770708237" src="https://github.com/user-attachments/assets/a5a57d75-41b9-4b5e-9aaf-6d05e17cc9bb" />
 <h1 align="center">NAMASTE 🙏 I'm KAJAL</h1>
 <h3 align="center">A passionate MERN stack Developer from India</h3>
 
