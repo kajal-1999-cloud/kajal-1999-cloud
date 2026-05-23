@@ -1,25 +1,29 @@
 <img width="1400" height="350" alt="1722770708237" src="https://github.com/user-attachments/assets/a5a57d75-41b9-4b5e-9aaf-6d05e17cc9bb" />
 <h1 align="center">NAMASTE 🙏 I'm KAJAL</h1>
-<h3 align="center">A passionate MERN stack Developer from India</h3>
+<h3 align="center">A Curious Software Developer from India</h3>
+
+
+
+<h3 align="center">Objective</h3>
+
+A dedicated Developer powered by code, coffee, and music.For me, building software isn't just a job; it’s an immersive mindset of dreaming, designing, and debugging one problem at a time. I specialize in the MERN stack with a strong focus on intuitive User Interactions. I am constantly learning, adapting, and looking to collaborate with teams to build, grow, and create incredible products together.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajal-1999-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="kajal-1999-cloud" /> </p>
 
-- 🔭 I’m currently working on [Finance Management Project ]()
+- 🔭 I’m currently working on FullStack Development
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **System Design**
 
-- 👯 I’m looking to collaborate on **Fullstack developer Role**
+- 👨‍💻 Live Demo Of All projects are available at [Portfolio](https://portfolio0-2.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio0-2.vercel.app/)
-
-- 💬 Ask me about **JavaScript, ReactJS, NodeJS, DBMS, NextJS, MySQL**
+- 💬 Ask me about **JavaScript, ReactJS, NodeJS, DBMS, NextJS, MySQL, Web Server, AWS**
 
 - 📫 How to reach me **Kajalg1401@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/kajal-gupta1401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kajal-gupta1401" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/kajalg1401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kajalg1401" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kajalg1401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kajalg1401" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
