@@ -6,7 +6,7 @@
 
 <!-- <h3 align="center">Objective</h3> -->
 
-I'm dedicated Developer powered by code, coffee, and music. For me, building software is an immersive mindset of dreaming, designing, and debugging one problem at a time. I specialize in the MERN stack with a strong focus on translating robust backend logic into exceptional, seamless User Experiences (UX). I am constantly learning, adapting, and looking to collaborate with teams to build, grow, and create incredible products together.
+I'm dedicated Software Developer powered by code, coffee, and music. For me, building software is an immersive mindset of dreaming, designing, and debugging one problem at a time. I specialize in the MERN stack with a strong focus on translating robust backend logic into exceptional, seamless User Experiences (UX). I am constantly learning, adapting, and looking to collaborate with teams to build, grow, and create incredible products together.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajal-1999-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="kajal-1999-cloud" /> </p>
 
